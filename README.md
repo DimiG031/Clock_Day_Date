@@ -41,6 +41,10 @@ This is a **Digital Clock** application built using **Java Swing** that displays
 - **Option to display seconds on/off.**  
 - **Alarm and reminder functionality.**  
 
+---
+✨ **Author:** [Goran Dimitrijevic Dimi](https://dimig031.github.io/)
+
+
 ## License
 This project is open-source under the [MIT License](LICENSE).
 
